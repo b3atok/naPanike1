@@ -1,0 +1,42 @@
+{
+  "truecaller": {
+    "number": "+1 800-692-7753",
+    "is_valid": true,
+    "country_code": 1,
+    "national_number": 8006927753,
+    "number_type": 3,
+    "number_type_label": "Toll free",
+    "provider": "",
+    "time_zones": ["America/Adak", "America/Anchorage", ...]
+  },
+  "callapp": {
+    "name": "apple inc.",
+    "websites": [
+      {"websiteUrl": "http://www.apple.com/"},
+      {"websiteUrl": "https://www.apple.com/"},
+      {"websiteUrl": "http://m.yelp.com/biz/apple-computer-headquarters-cupertino"}
+    ],
+    "addresses": [
+      {"type": 1, "street": "Summit Boulevard, 35243, Vestavia Hills"},
+      {"type": 1, "street": "320 S Capital of Texas Hwy, West Lake Hills, TX 78746, USA"},
+      ...
+    ],
+    "photoUrl": "https://lh3.googleusercontent.com/p/AF1QipPmIDDqiF56xI9-dF3etwxfTYmlZrpKJKn_2T9r=k",
+    "categories": [
+      {"name": "Shopping & Retail"},
+      {"name": "Computer & Equipment Dealers"}
+    ],
+    "avgRating": 4.599999904632568,
+    "priceRange": 3,
+    "description": "Apple retail store showcasing the brand's phones, tablets & more in sleekly designed spaces.",
+    "spamScore": 351,
+    "priority": 37348
+  },
+  "viewcaller": [
+    {"name": "apple inc.", "occurrences": 9273, "isSpam": false},
+    {"name": "apple", "occurrences": 609, "isSpam": false},
+    {"name": "apple inc", "occurrences": 416, "isSpam": false},
+    ...
+  ],
+  "eyecon": "Apple Inc."
+}
